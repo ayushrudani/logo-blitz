@@ -31,7 +31,7 @@ function Round_2_Form() {
       }
     });
     localStorage.setItem("score", score);
-    // navigate("/Score");
+    navigate("/Score");
   }
   useEffect(() => {
     // after 10 minutes the page will redirect to the score page
