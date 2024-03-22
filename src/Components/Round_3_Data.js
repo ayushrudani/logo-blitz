@@ -42,11 +42,6 @@ const Round_3_Data = [
             optionImage: "/Round_3/Optsions/indigopaints.png",
             isCorrect: false,
           },
-          {
-            id: 8,
-            optionImage: "/Round_3/Optsions/nike.png",
-            isCorrect: false,
-          },
         ],
       },
       {

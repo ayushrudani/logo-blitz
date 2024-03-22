@@ -37,7 +37,7 @@ function Main() {
     <div
       class="bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 h-screen flex items-center justify-center z-[1]"
       style={{
-        backgroundImage: `url("./backgrounds/main.jpg")`,
+        backgroundImage: `url("https://logo-blitz.vercel.app/Backgrounds/main.jpg")`,
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
       }}
