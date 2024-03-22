@@ -4,7 +4,7 @@ import Round_2_Data from "./Round_2_Data";
 
 function Round_2() {
   const navigate = useNavigate();
-  const [isVisible, setIsVisible] = useState(false);
+  const [isVisible, setIsVisible] = useState(true);
   const [isOver, setIsOver] = useState(false);
   const code = localStorage.getItem("code");
   const [listOfImage, setlistOfImages] = useState(findTeam());
@@ -19,18 +19,18 @@ function Round_2() {
   useEffect(() => {
     setlistOfImages(findTeam());
 
-    const interval = setInterval(() => {
-      setIsVisible((prev) => !prev);
-      shuffleImages();
-      counter++;
-      if (counter == 10) {
-        clearInterval(interval);
-        setIsOver(true);
-        navigate("/Round_2_Form");
-      }
-    }, 2000);
+    // const interval = setInterval(() => {
+    //   setIsVisible((prev) => !prev);
+    //   shuffleImages();
+    //   counter++;
+    //   if (counter == 10) {
+    //     clearInterval(interval);
+    //     setIsOver(true);
+    //     navigate("/Round_2_Form");
+    //   }
+    // }, 2000);
 
-    return () => clearInterval(interval);
+    // return () => clearInterval(interval);
   }, []);
 
   // shuffle the images
@@ -50,7 +50,7 @@ function Round_2() {
     </div>
   ) : (
     <div>
-      <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-[6rem]">
+      <div class="container mx-auto px-5 py-2 lg:px-32 flex justify-center items-center">
         <div class="-m-1 flex flex-wrap md:-m-2 items-center">
           {Object.values(listOfImage).map((image, index) => (
             <div class="flex w-1/5 flex-wrap ">

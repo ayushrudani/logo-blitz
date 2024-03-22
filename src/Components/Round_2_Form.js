@@ -46,9 +46,7 @@ function Round_2_Form() {
       <div class="absolute top-10 right-0 m-5 p-2 bg-white bg-opacity-50 rounded-lg z-1000">
         <CountdownTimer />
       </div>
-      // in box 25 textbox using forloop and submit button and store the data in
-      state in array format
-      <div class="container mx-auto px-5 py-2 lg:px-32 ">
+      <div class="container mx-auto px-5 py-2 lg:px-32 flex justify-center items-center ">
         <div class="flex items-center justify-center h-screen">
           <div class="flex flex-col space-y-4">
             <h1 class="text-3xl font-semibold">Round 2 Form</h1>

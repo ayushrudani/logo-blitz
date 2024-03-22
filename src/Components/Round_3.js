@@ -38,7 +38,7 @@ const Round_3 = () => {
     // if last question then redirect to score page
 
     if (currentQuestion + 1 === questions.length) {
-      navigate("/score");
+      navigate("/over");
     }
   };
 
