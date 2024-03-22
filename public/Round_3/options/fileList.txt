@@ -1,117 +1,117 @@
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\adidas.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\adobe.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\airbnb.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\airtel.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\android.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\animalplanet.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\applemusic.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\asianpaints.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\astonmartin.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\audi.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\baskinrobbins.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\bharatpetroleum.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\bhim.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\bluetooth.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\bookmyshow.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\burgerking.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\byjus.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\cartoonnetwork.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\chevrolet.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\cnbc.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\codesandbox.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\cred.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\csharp.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\discord.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\disney.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\dominos.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\dotnet.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\dropbox.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\dulogo.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\dunzo.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\fbi.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\fileList.txt
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\firebase.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\firefox.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\gfg.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\github.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\gmail.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\google.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\googlemeet.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\gpay.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\gucci.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\hdfc.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\hindustanunilever.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\hyundai.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\indigoflights.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\indigopaints.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\inshorts.jpeg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\instagram.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\jordan.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\kfc.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\kwalitywalls.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\lg.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\linkedin.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\louisvuitton.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\mahindra.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\manyavar.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\mastercard.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\mcdonalds.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\mercedes.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\messenger.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\minecraft.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\monster.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\motorola.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\myntra.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\nasa.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\nationalgeographic.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\nba.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\nike.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\operamini.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\paperboat.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\parker.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\pepsi.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\physicswallah.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\pinterest.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\pizzahut.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\playstation.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\playstore.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\pnb.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\porsche.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\powershell.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\quickheal.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\quora.webp
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\rcb.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\redbull.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\reliance.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\rockstar.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\safari.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\sharechat.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\shellpetrol.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\skoda.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\skype.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\snapchat.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\spotify.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\stackoverflow.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\starbucks.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\steam.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\tacobell.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\tanishq.jpeg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\tesla.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\threads.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\tiktok.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\tommyhilfiger.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\tseries.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\twitter.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\vodafone.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\volkswagen.svg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\vsc.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\warnerbros.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\wbusiness.jpg
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\wendys.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\wikipedia.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\windows.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\wpl.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\xbox.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\xender.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\youtube.png
-D:\Programing club\Logo Final\logo-blitz\public\Round_3\options\ytstudio.webp
+adidas.png
+adobe.png
+airbnb.png
+airtel.png
+android.png
+animalplanet.jpg
+applemusic.png
+asianpaints.png
+astonmartin.jpg
+audi.jpg
+baskinrobbins.png
+bharatpetroleum.jpg
+bhim.png
+bluetooth.png
+bookmyshow.png
+burgerking.png
+byjus.png
+cartoonnetwork.png
+chevrolet.png
+cnbc.png
+codesandbox.jpg
+cred.jpg
+csharp.png
+discord.png
+disney.jpg
+dominos.png
+dotnet.jpg
+dropbox.png
+dulogo.png
+dunzo.png
+fbi.jpg
+fileList.txt
+firebase.png
+firefox.png
+gfg.png
+github.png
+gmail.png
+google.png
+googlemeet.jpg
+gpay.png
+gucci.jpg
+hdfc.png
+hindustanunilever.png
+hyundai.jpg
+indigoflights.png
+indigopaints.png
+inshorts.jpeg
+instagram.png
+jordan.jpg
+kfc.png
+kwalitywalls.png
+lg.png
+linkedin.png
+louisvuitton.jpg
+mahindra.jpg
+manyavar.png
+mastercard.png
+mcdonalds.png
+mercedes.png
+messenger.jpg
+minecraft.jpg
+monster.jpg
+motorola.png
+myntra.jpg
+nasa.jpg
+nationalgeographic.jpg
+nba.png
+nike.png
+operamini.jpg
+paperboat.jpg
+parker.png
+pepsi.png
+physicswallah.jpg
+pinterest.png
+pizzahut.png
+playstation.png
+playstore.png
+pnb.png
+porsche.jpg
+powershell.png
+quickheal.png
+quora.webp
+rcb.jpg
+redbull.png
+reliance.png
+rockstar.png
+safari.png
+sharechat.jpg
+shellpetrol.png
+skoda.png
+skype.png
+snapchat.jpg
+spotify.png
+stackoverflow.png
+starbucks.png
+steam.jpg
+tacobell.jpg
+tanishq.jpeg
+tesla.jpg
+threads.png
+tiktok.png
+tommyhilfiger.jpg
+tseries.png
+twitter.jpg
+vodafone.png
+volkswagen.svg
+vsc.jpg
+warnerbros.png
+wbusiness.jpg
+wendys.png
+wikipedia.png
+windows.png
+wpl.png
+xbox.png
+xender.png
+youtube.png
+ytstudio.webp
