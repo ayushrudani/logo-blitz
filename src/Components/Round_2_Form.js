@@ -19,7 +19,7 @@ function Round_2_Form() {
     // check the answer is correct or not with team2 array
     let team = Round_2_Data.find((team) => team.code === code);
     let answerArray = Object.values(team.images).map((item) =>
-      item.split("/")[2].split(".")[0].replace(/\s/g, "").toLowerCase()
+      item.split("/")[3].split(".")[0].replace(/\s/g, "").toLowerCase()
     );
     let score = 0;
     // if answer is correct increment the score by 4 if not decrement the score by 1

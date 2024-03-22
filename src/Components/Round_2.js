@@ -17,7 +17,7 @@ function Round_2() {
   }
   let counter = 0;
   useEffect(() => {
-    setlistOfImages(findTeam());
+    // setlistOfImages(findTeam());
     // set the interval of 2 seconds
     setInterval(() => {}, 2000);
     const interval = setInterval(() => {
