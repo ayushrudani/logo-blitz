@@ -32,12 +32,12 @@ const Round_3 = () => {
       score = parseInt(score) + 5;
       localStorage.setItem("score", score);
     }
-    if (currentQuestion + 1 < questions.length) {
+    if (currentQuestion + 1 < questions[0].length) {
       setCurrentQuestion(currentQuestion + 1);
     }
     // if last question then redirect to score page
 
-    if (currentQuestion + 1 === questions.length) {
+    if (currentQuestion + 1 === questions[0].length) {
       navigate("/over");
     }
   };
@@ -45,7 +45,7 @@ const Round_3 = () => {
   return (
     <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-[6rem]">
       <h1 class="text-3xl font-semibold w-full flex items-center justify-center px-3 py-10">
-        Question {currentQuestion + 1} of {questions.length}
+        Question {currentQuestion + 1} of {questions[0].length}
       </h1>
       <div class="-m-1 flex flex-wrap md:-m-2 items-center justify-center">
         <div class="flex w-1/2 flex-wrap justify-center">
