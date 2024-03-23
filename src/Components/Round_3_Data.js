@@ -3635,6 +3635,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/tseries.png",
             isCorrect: true,
+          }, //options
+          //           physicswallah.jpg
+          // youtube.png
+          // monster.jpg
+          // android.png
+          // minecraft.jpg
+          // kfc.png
+          // asianpaints.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/physicswallah.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/monster.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/android.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/minecraft.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/kfc.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/asianpaints.png",
+            isCorrect: false,
           },
         ],
       },
@@ -3647,6 +3689,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/starbucks.png",
             isCorrect: true,
+          }, //options
+          //           chevrolet.png
+          // tseries.png
+          // mastercard.png
+          // stackoverflow.png
+          // pepsi.png
+          // nationalgeographic.jpg
+          // twitter.jpg
+          {
+            id: 1,
+            optionImage: "/Round_3/options/chevrolet.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/tseries.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/mastercard.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/pepsi.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/nationalgeographic.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/twitter.jpg",
+            isCorrect: false,
           },
         ],
       },
@@ -3659,6 +3743,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/visualstudiocode.jpg",
             isCorrect: true,
+          }, //options
+          //           physicswallah.jpg
+          // gmail.png
+          // github.png
+          // nike.png
+          // airbnb.png
+          // tiktok.png
+          // applemusic.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/physicswallah.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/gmail.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/github.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/nike.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/airbnb.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/tiktok.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/applemusic.png",
+            isCorrect: false,
           },
         ],
       },
@@ -3671,6 +3797,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/csharp.png",
             isCorrect: true,
+          }, //options
+          //           dropbox.png
+          // messenger.jpg
+          // playstore.png
+          // android.png
+          // youtube.png
+          // minecraft.jpg
+          // burgerking.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/dropbox.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/messenger.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/playstore.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/android.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/minecraft.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/burgerking.png",
+            isCorrect: false,
           },
         ],
       },
@@ -3683,6 +3851,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/paperboat.jpg",
             isCorrect: true,
+          }, //options
+          //           motorola.png
+          // adidas.png
+          // kwalitywalls.png
+          // dominos.png
+          // wpl.png
+          // adobe.png
+          // fbi.jpg
+          {
+            id: 1,
+            optionImage: "/Round_3/options/motorola.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/adidas.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/kwalitywalls.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/dominos.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/wpl.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/adobe.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/fbi.jpg",
+            isCorrect: false,
           },
         ],
       },
@@ -3695,6 +3905,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/redbull.png",
             isCorrect: true,
+          }, //options
+          //           airbnb.png
+          // applemusic.png
+          // kfc.png
+          // bluetooth.png
+          // messenger.jpg
+          // quora.webp
+          // spotify.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/airbnb.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/applemusic.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/kfc.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/bluetooth.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/messenger.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/quora.webp",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/spotify.png",
+            isCorrect: false,
           },
         ],
       },
@@ -3707,6 +3959,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/stackoverflow.png",
             isCorrect: true,
+          }, //options
+          //           motorola.png
+          // mastercard.png
+          // dotnet.jpg
+          // louisvuitton.jpg
+          // mercedes.png
+          // discord.png
+          // kfc.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/motorola.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/mastercard.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/dotnet.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/louisvuitton.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/mercedes.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/discord.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/kfc.png",
+            isCorrect: false,
           },
         ],
       },
@@ -3719,6 +4013,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/playstore.png",
             isCorrect: true,
+          }, //options
+          //           gucci.jpg
+          // shellpetrol.png
+          // tesla.jpg
+          // bharatpetroleum.jpg
+          // bluetooth.png
+          // burgerking.png
+          // pizzahut.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/gucci.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/shellpetrol.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/tesla.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/bharatpetroleum.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/bluetooth.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/burgerking.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/pizzahut.png",
+            isCorrect: false,
           },
         ],
       },
@@ -3731,6 +4067,48 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/hindustanunilever.png",
             isCorrect: true,
+          }, //options
+          //           audi.jpg
+          // manyavar.png
+          // codesandbox.jpg
+          // gucci.jpg
+          // gmail.png
+          // dunzo.png
+          // bhim.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/audi.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/manyavar.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/codesandbox.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/gucci.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/gmail.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/dunzo.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/bhim.png",
+            isCorrect: false,
           },
         ],
       },
