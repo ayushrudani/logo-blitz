@@ -2903,14 +2903,14 @@ const Round_3_Data = [
           },
         ],
       },
-      // firebase.jpg
+      // firebase.png
       {
         image1: "/Round_3/questions/firebase1.jpg",
         image2: "/Round_3/questions/firebase2.jpg",
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/options/firebase.jpg",
+            optionImage: "/Round_3/options/firebase.png",
             isCorrect: true,
           },
           //options
@@ -2958,14 +2958,14 @@ const Round_3_Data = [
           },
         ],
       },
-      // codesandbox.png
+      // codesandbox.jpg
       {
-        image1: "/Round_3/questions/codesandbox1.jpg",
-        image2: "/Round_3/questions/codesandbox2.jpg",
+        image1: "/Round_3/questions/codesandbox1.png",
+        image2: "/Round_3/questions/codesandbox2.png",
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/options/codesandbox.png",
+            optionImage: "/Round_3/options/codesandbox.jpg",
             isCorrect: true,
           },
           //options
