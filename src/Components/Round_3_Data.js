@@ -1428,37 +1428,37 @@ const Round_3_Data = [
           },
           {
             id: 1,
-            optionImage: "/Round_3/options/byjus.png",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/cartoonnetwork.png",
+            optionImage: "/Round_3/options/playstore.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/andoid.png",
+            optionImage: "/Round_3/options/tseries.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/audi.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/nba.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/inshorts.jpg",
+            optionImage: "/Round_3/options/gmail.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/kfc.png",
+            optionImage: "/Round_3/options/linkedin.png",
             isCorrect: false,
           },
         ],
@@ -1469,42 +1469,42 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/mastercard.png",
+            optionImage: "/Round_3/options/mastercard.png",
             isCorrect: true,
           },
           {
             id: 1,
-            optionImage: "/Round_3/options/xbox.png",
-            isCorrect: true,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/linkedin.png",
+            optionImage: "/Round_3/options/jordan.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/mercedes.png",
+            optionImage: "/Round_3/options/wbusiness.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/github.png",
+            optionImage: "/Round_3/options/skype.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/firefox.png",
+            optionImage: "/Round_3/options/disney.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/xender.png",
+            optionImage: "/Round_3/options/bharatpetroleum.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/starbucks.png",
+            optionImage: "/Round_3/options/bluetooth.png",
             isCorrect: false,
           },
         ],
@@ -1515,42 +1515,42 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/baskinrobbins.png",
+            optionImage: "/Round_3/options/baskinrobbins.png",
             isCorrect: true,
           },
           {
             id: 1,
-            optionImage: "/Round_3/options/pepsi.jpg",
+            optionImage: "/Round_3/options/applemusic.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/pizzahut.png",
+            optionImage: "/Round_3/options/physicswallah.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/wpl.png",
+            optionImage: "/Round_3/options/manyavar.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/warnerbros.png",
+            optionImage: "/Round_3/options/burgerking.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/spotify.png",
+            optionImage: "/Round_3/options/github.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/tacobell.jpg",
+            optionImage: "/Round_3/options/kwalitywalls.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/minecraft.jpg",
+            optionImage: "/Round_3/options/operamini.jpg",
             isCorrect: false,
           },
         ],
@@ -1561,42 +1561,42 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/physicswallah.jpg",
+            optionImage: "/Round_3/options/physicswallah.jpg",
             isCorrect: true,
           },
           {
             id: 1,
-            optionImage: "/Round_3/options/paperboat.jpg",
+            optionImage: "/Round_3/options/hdfc.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/nasa.jpg",
+            optionImage: "/Round_3/options/dulogo.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/firefox.png",
+            optionImage: "/Round_3/options/mastercard.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/cred.jpg",
+            optionImage: "/Round_3/options/hindustanunilever.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/dotnet.jpg",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/disney.jpg",
+            optionImage: "/Round_3/options/gpay.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/applemusic.png",
+            optionImage: "/Round_3/options/instagram.png",
             isCorrect: false,
           },
         ],
@@ -1607,42 +1607,42 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/rockstar.png",
+            optionImage: "/Round_3/options/rockstar.png",
             isCorrect: true,
           },
           {
             id: 1,
-            optionImage: "/Round_3/Optsions/wikipedia.png",
+            optionImage: "/Round_3/options/monster.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/Optsions/tommyhilfiger.jpg",
+            optionImage: "/Round_3/options/xender.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/Optsions/xbox.png",
+            optionImage: "/Round_3/options/youtube.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/Optsions/tesla.jpg",
+            optionImage: "/Round_3/options/csharp.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/Optsions/starbucks.png",
+            optionImage: "/Round_3/options/indigoflights.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/Optsions/vsc.jpg",
+            optionImage: "/Round_3/options/nba.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/Optsions/youtube.png",
+            optionImage: "/Round_3/options/dotnet.jpg",
             isCorrect: false,
           },
         ],
@@ -1653,42 +1653,50 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/applemusic.png",
+            optionImage: "/Round_3/options/applemusic.png",
             isCorrect: true,
           },
+          //options
+          //           playstation.png
+          // astonmartin.jpg
+          // inshorts.jpeg
+          // dominos.png
+          // mercedes.png
+          // hdfc.png
+          // jordan.jpg
           {
             id: 1,
-            optionImage: "/Round_3/Optsions/youtube.png",
+            optionImage: "/Round_3/options/playstation.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/Optsions/starbucks.png",
+            optionImage: "/Round_3/options/astonmartin.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/Optsions/pepsi.png",
+            optionImage: "/Round_3/options/inshorts.jpeg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/Optsions/tseries.png",
+            optionImage: "/Round_3/options/dominos.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/Optsions/github.png",
+            optionImage: "/Round_3/options/mercedes.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/Optsions/snapchat.jpg",
+            optionImage: "/Round_3/options/hdfc.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/Optsions/firefox.png",
+            optionImage: "/Round_3/options/jordan.jpg",
             isCorrect: false,
           },
         ],
@@ -1699,42 +1707,50 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/tacobell.jpg",
+            optionImage: "/Round_3/options/tacobell.jpg",
             isCorrect: true,
           },
+          //options
+          //           dunzo.png
+          // playstation.png
+          // threads.png
+          // messenger.jpg
+          // pinterest.png
+          // safari.png
+          // android.png
           {
             id: 1,
-            optionImage: "/Round_3/Optsions/threads.png",
+            optionImage: "/Round_3/options/dunzo.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/Optsions/tiktok.png",
+            optionImage: "/Round_3/options/playstation.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/Optsions/windows.png",
+            optionImage: "/Round_3/options/threads.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/Optsions/motorola.png",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/Optsions/nba.png",
+            optionImage: "/Round_3/options/pinterest.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/Optsions/parker.png",
+            optionImage: "/Round_3/options/safari.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/Optsions/indigopaints.png",
+            optionImage: "/Round_3/options/android.png",
             isCorrect: false,
           },
         ],
@@ -1745,47 +1761,50 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/codesandbox.jpg",
+            optionImage: "/Round_3/options/codesandbox.jpg",
             isCorrect: true,
           },
-          {
-            id: 0,
-            optionImage: "/Round_3/Optsions/cnbc.png",
-            isCorrect: true,
-          },
+          //options
+          //           nba.png
+          // vsc.jpg
+          // quickheal.png
+          // louisvuitton.jpg
+          // volkswagen.svg
+          // motorola.png
+          // tommyhilfiger.jpg
           {
             id: 1,
-            optionImage: "/Round_3/Optsions/dunzo.png",
+            optionImage: "/Round_3/options/nba.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/Optsions/googlemeet.jpg",
+            optionImage: "/Round_3/options/vsc.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/Optsions/manyavar.png",
+            optionImage: "/Round_3/options/quickheal.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/Optsions/mercedes.png",
+            optionImage: "/Round_3/options/louisvuitton.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/Optsions/nike.png",
+            optionImage: "/Round_3/options/volkswagen.svg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/Optsions/pinterest.png",
+            optionImage: "/Round_3/options/motorola.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/Optsions/hindustanunilever.png",
+            optionImage: "/Round_3/options/tommyhilfiger.jpg",
             isCorrect: false,
           },
         ],
@@ -1796,42 +1815,50 @@ const Round_3_Data = [
         options: [
           {
             id: 0,
-            optionImage: "/Round_3/Optsions/csharp.png",
+            optionImage: "/Round_3/options/csharp.png",
             isCorrect: true,
           },
+          //options
+          //           pinterest.png
+          // astonmartin.jpg
+          // dunzo.png
+          // mahindra.jpg
+          // ytstudio.webp
+          // jordan.jpg
+          // chevrolet.png
           {
             id: 1,
-            optionImage: "/Round_3/options/astonmartin.jpg",
+            optionImage: "/Round_3/options/pinterest.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/asianpaints.png",
+            optionImage: "/Round_3/options/astonmartin.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/bharatpetroleum.jpg",
+            optionImage: "/Round_3/options/dunzo.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/cartoonnetwork.png",
+            optionImage: "/Round_3/options/mahindra.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/hdfc.png",
+            optionImage: "/Round_3/options/ytstudio.webp",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/gucci.jpg",
+            optionImage: "/Round_3/options/jordan.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/bluetooth.png",
+            optionImage: "/Round_3/options/chevrolet.png",
             isCorrect: false,
           },
         ],
@@ -1845,39 +1872,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/firefox.png",
             isCorrect: true,
           },
+          //options
+          //           reliance.png
+          // manyavar.png
+          // minecraft.jpg
+          // vodafone.png
+          // dunzo.png
+          // tanishq.jpeg
+          // messenger.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/disney.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/dominos.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/dropbox.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/gfg.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/linkedin.png",
-            isCorrect: false,
-          },
-          {
-            id: 6,
             optionImage: "/Round_3/options/reliance.png",
             isCorrect: false,
           },
           {
+            id: 2,
+            optionImage: "/Round_3/options/manyavar.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/minecraft.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/vodafone.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/dunzo.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/tanishq.jpeg",
+            isCorrect: false,
+          },
+          {
             id: 7,
-            optionImage: "/Round_3/options/rcb.jpg",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
         ],
@@ -1886,8 +1921,8 @@ const Round_3_Data = [
   },
   // modify pendding copilot
   {
-    team: "team2",
-    code: "#54321",
+    team: "team5",
+    code: "#5",
     quizData: [
       {
         image1: "/Round_3/questions/tseries1.jpg",
@@ -1898,85 +1933,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/tseries.png",
             isCorrect: true,
           },
+          //options
+          //           xender.png
+          // pizzahut.png
+          // nasa.jpg
+          // stackoverflow.png
+          // volkswagen.svg
+          // messenger.jpg
+          // asianpaints.png
           {
             id: 1,
-            optionImage: "/Round_3/options/skype.png",
+            optionImage: "/Round_3/options/xender.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/cred.jpg",
+            optionImage: "/Round_3/options/pizzahut.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/nasa.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/inshorts.jpeg",
+            optionImage: "/Round_3/options/stackoverflow.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/indigopaints.png",
+            optionImage: "/Round_3/options/volkswagen.svg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/asianpaints.png",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/codesandbox.jpg",
-            isCorrect: false,
-          },
-        ],
-      },
-      {
-        image1: "/Round_3/questions/github1.png",
-        image2: "/Round_3/questions/github2.png",
-        options: [
-          {
-            id: 0,
-            optionImage: "/Round_3/options/github.png",
-            isCorrect: true,
-          },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/burgerking.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/pepsi.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
             optionImage: "/Round_3/options/asianpaints.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/kfc.png",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/manyavar.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/kwalitywalls.png",
             isCorrect: false,
           },
         ],
