@@ -3021,8 +3021,8 @@ const Round_3_Data = [
     ],
   },
   {
-    team: "team4",
-    code: "#5b321",
+    team: "team7",
+    code: "#7",
     quizData: [
       // paperboat.png
       {
@@ -3034,40 +3034,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/paperboat.jpg",
             isCorrect: true,
           },
-
+          //options
+          //           applemusic.png
+          // dunzo.png
+          // inshorts.jpeg
+          // wendys.png
+          // stackoverflow.png
+          // hindustanunilever.png
+          // gpay.png
           {
             id: 1,
-            optionImage: "/Round_3/options/wikipedia.png",
+            optionImage: "/Round_3/options/applemusic.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/indigopaints.png",
+            optionImage: "/Round_3/options/dunzo.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/asianpaints.png",
+            optionImage: "/Round_3/options/inshorts.jpeg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/adidas.png",
+            optionImage: "/Round_3/options/wendys.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/indigoflights.png",
+            optionImage: "/Round_3/options/stackoverflow.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/cred.jpg",
+            optionImage: "/Round_3/options/hindustanunilever.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/hyundai.jpg",
+            optionImage: "/Round_3/options/gpay.png",
             isCorrect: false,
           },
         ],
@@ -3081,40 +3088,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/stackoverflow.png",
             isCorrect: true,
-          },
+          }, //options
+          //           adidas.png
+          // tommyhilfiger.jpg
+          // burgerking.png
+          // lg.png
+          // shellpetrol.png
+          // skoda.png
+          // hyundai.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/tommyhilfiger.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/burgerking.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/lg.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/shellpetrol.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
+            optionImage: "/Round_3/options/skoda.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/hyundai.jpg",
             isCorrect: false,
           },
         ],
@@ -3128,35 +3142,42 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/mastercard.png",
             isCorrect: true,
-          },
+          }, //options
+          //           disney.jpg
+          // porsche.jpg
+          // ytstudio.webp
+          // dulogo.png
+          // mercedes.png
+          // pepsi.png
+          // stackoverflow.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/disney.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/porsche.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/ytstudio.webp",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/dulogo.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/mercedes.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/pepsi.png",
             isCorrect: false,
           },
           {
@@ -3175,40 +3196,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/linkedin.png",
             isCorrect: true,
-          },
+          }, //options
+          //           myntra.jpg
+          // skoda.png
+          // minecraft.jpg
+          // sharechat.jpg
+          // parker.png
+          // operamini.jpg
+          // playstation.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/myntra.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/skoda.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/minecraft.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/sharechat.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/parker.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/operamini.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/playstation.png",
             isCorrect: false,
           },
         ],
@@ -3222,40 +3250,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/baskinrobbins.png",
             isCorrect: true,
-          },
+          }, //options
+          //           cnbc.png
+          // animalplanet.jpg
+          // adobe.png
+          // audi.jpg
+          // indigoflights.png
+          // lg.png
+          // snapchat.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/cnbc.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/animalplanet.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/adobe.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/audi.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/indigoflights.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/lg.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/snapchat.jpg",
             isCorrect: false,
           },
         ],
@@ -3269,40 +3304,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/redbull.png",
             isCorrect: true,
-          },
+          }, //options
+          //           safari.png
+          // airtel.png
+          // kfc.png
+          // bhim.png
+          // adobe.png
+          // manyavar.png
+          // csharp.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/safari.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
             optionImage: "/Round_3/options/airtel.png",
             isCorrect: false,
           },
           {
+            id: 3,
+            optionImage: "/Round_3/options/kfc.png",
+            isCorrect: false,
+          },
+          {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/bhim.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/adobe.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/manyavar.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/csharp.png",
             isCorrect: false,
           },
         ],
@@ -3316,40 +3358,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/airbnb.png",
             isCorrect: true,
-          },
+          }, //options
+          //           dropbox.png
+          // hdfc.png
+          // adidas.png
+          // adobe.png
+          // firefox.png
+          // bharatpetroleum.jpg
+          // threads.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/dropbox.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/hdfc.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/adobe.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/firefox.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/bharatpetroleum.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/redbull.png",
+            optionImage: "/Round_3/options/threads.png",
             isCorrect: false,
           },
         ],
@@ -3364,39 +3413,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/kwalitywalls.png",
             isCorrect: true,
           },
+          //options
+          //           wpl.png
+          // dotnet.jpg
+          // reliance.png
+          // wendys.png
+          // xbox.png
+          // applemusic.png
+          // nba.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/wpl.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/dotnet.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/reliance.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/wendys.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/xbox.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/applemusic.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/nba.png",
             isCorrect: false,
           },
         ],
@@ -3410,40 +3467,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/android.png",
             isCorrect: true,
-          },
+          }, //options
+          //           xbox.png
+          // tanishq.jpeg
+          // pinterest.png
+          // tseries.png
+          // monster.jpg
+          // stackoverflow.png
+          // youtube.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/xbox.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/tanishq.jpeg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/pinterest.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/tseries.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/monster.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/stackoverflow.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/redbull.png",
+            optionImage: "/Round_3/options/youtube.png",
             isCorrect: false,
           },
         ],
@@ -3457,40 +3521,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/visualstudiocode.jpg",
             isCorrect: true,
-          },
+          }, //options
+          //           firebase.png
+          // monster.jpg
+          // adobe.png
+          // baskinrobbins.png
+          // mastercard.png
+          // airtel.png
+          // bluetooth.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/firebase.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/monster.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/adobe.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/baskinrobbins.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/stackoverflow.png",
+            optionImage: "/Round_3/options/mastercard.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/airtel.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/redbull.png",
+            optionImage: "/Round_3/options/bluetooth.png",
             isCorrect: false,
           },
         ],
@@ -3498,8 +3569,8 @@ const Round_3_Data = [
     ],
   },
   {
-    team: "team5",
-    code: "#5c321",
+    team: "team8",
+    code: "#8",
     quizData: [
       // minecraft.png
       {
@@ -3510,40 +3581,47 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/minecraft.jpg",
             isCorrect: true,
-          },
+          }, //options
+          //           dropbox.png
+          // instagram.png
+          // wbusiness.jpg
+          // shellpetrol.png
+          // hindustanunilever.png
+          // adidas.png
+          // dulogo.png
           {
             id: 1,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/dropbox.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
+            optionImage: "/Round_3/options/instagram.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/wbusiness.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/shellpetrol.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            optionImage: "/Round_3/options/hindustanunilever.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/dulogo.png",
             isCorrect: false,
           },
         ],
@@ -3558,41 +3636,6 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/tseries.png",
             isCorrect: true,
           },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
-          },
         ],
       },
       // starbucks.png
@@ -3604,41 +3647,6 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/starbucks.png",
             isCorrect: true,
-          },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/visualstudiocode.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
           },
         ],
       },
@@ -3652,41 +3660,6 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/visualstudiocode.jpg",
             isCorrect: true,
           },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
-          },
         ],
       },
       // csharp.png
@@ -3698,41 +3671,6 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/csharp.png",
             isCorrect: true,
-          },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
           },
         ],
       },
@@ -3746,41 +3684,6 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/paperboat.jpg",
             isCorrect: true,
           },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
-          },
         ],
       },
       // redbull.png
@@ -3792,41 +3695,6 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/redbull.png",
             isCorrect: true,
-          },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
           },
         ],
       },
@@ -3840,41 +3708,6 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/stackoverflow.png",
             isCorrect: true,
           },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
-          },
         ],
       },
       // playstore.png
@@ -3887,41 +3720,6 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/playstore.png",
             isCorrect: true,
           },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
-          },
         ],
       },
       // hindustanunilever.png
@@ -3933,41 +3731,6 @@ const Round_3_Data = [
             id: 0,
             optionImage: "/Round_3/options/hindustanunilever.png",
             isCorrect: true,
-          },
-          {
-            id: 1,
-            optionImage: "/Round_3/options/adobe.png",
-            isCorrect: false,
-          },
-          {
-            id: 2,
-            optionImage: "/Round_3/options/airbnb.png",
-            isCorrect: false,
-          },
-          {
-            id: 3,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/android.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/minecraft.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 6,
-            optionImage: "/Round_3/options/mastercard.png",
-            isCorrect: false,
-          },
-          {
-            id: 7,
-            optionImage: "/Round_3/options/youtube.png",
-            isCorrect: false,
           },
         ],
       },
