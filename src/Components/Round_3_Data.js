@@ -4114,6 +4114,1025 @@ const Round_3_Data = [
       },
     ],
   },
+  {
+    team: "team9",
+    code: "#9",
+    quizData: [
+      {
+        image1: "/Round_3/questions/stackoverflow1.png",
+        image2: "/Round_3/questions/stackoverflow2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/starbucks.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/pepsi.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/gucci.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/gmail.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/dunzo.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/bhim.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/starbucks1.png",
+        image2: "/Round_3/questions/starbucks2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/starbucks.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/snapchat.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/instagram.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/firefox.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/louisvuitton.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/mercedes.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/discord.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/kfc.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/tacobell1.png",
+        image2: "/Round_3/questions/tacobell2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/tacobell.jpg",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/xbox.png",
+            isCorrect: true,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/linkedin.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/mercedes.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/github.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/firefox.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/xender.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/starbucks.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/tseries1.jpg",
+        image2: "/Round_3/questions/tseries2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/tseries.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/snapchat.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/instagram.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/firefox.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/airbnb.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/powershell.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/android.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/indigopaints.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/twitter1.png",
+        image2: "/Round_3/questions/twitter2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/twitter.jpg",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/reliance.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/instagram.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/playstore.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/minecraft.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/bluetooth.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/paperboat.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/mastercard.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/visualstudiocode1.png",
+        image2: "/Round_3/questions/visualstudiocode2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/github.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/powershell.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/applemusic.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/twitter.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/mercedes.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/instagram.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/warnerbros1.jpg",
+        image2: "/Round_3/questions/warnerbros2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/warnerbros.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/twitter.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/reliance.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/pepsi.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/xbox.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/animalplanet.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/redbull.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/instagram.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/xbox1.png",
+        image2: "/Round_3/questions/xbox2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/xbox.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/starbucks.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/linkedin.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/instagram.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/android.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/powershell.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/github.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/xender1.png",
+        image2: "/Round_3/questions/xender2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/xender.png",
+            isCorrect: true,
+          },
+          {
+            id: 0,
+            optionImage: "/Round_3/options/dropbox.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/reliance.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/tacobell.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/playstore.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/byjus.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/starbucks.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/github.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/indigopaints.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/youtube1.jpg",
+        image2: "/Round_3/questions/youtube2.jpg",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: true,
+          },
+          {
+            id: 1,
+            optionImage: "/Round_3/options/mercedes.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/google.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/playstore.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/baskinrobbins.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/tseries.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/indigopaints.png",
+            isCorrect: false,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    team: "team10",
+    code: "#10",
+    quizData: [
+      // paperboat.png
+      {
+        image1: "/Round_3/questions/paperboat1.png",
+        image2: "/Round_3/questions/paperboat2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/paperboat.jpg",
+            isCorrect: true,
+          },
+          //options
+          //           applemusic.png
+          // dunzo.png
+          // inshorts.jpeg
+          // wendys.png
+          // stackoverflow.png
+          // hindustanunilever.png
+          // gpay.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/applemusic.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/dunzo.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/inshorts.jpeg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/wendys.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/hindustanunilever.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/gpay.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // stackoverflow.png
+      {
+        image1: "/Round_3/questions/stackoverflow1.png",
+        image2: "/Round_3/questions/stackoverflow2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: true,
+          }, //options
+          //           adidas.png
+          // tommyhilfiger.jpg
+          // burgerking.png
+          // lg.png
+          // shellpetrol.png
+          // skoda.png
+          // hyundai.jpg
+          {
+            id: 1,
+            optionImage: "/Round_3/options/adidas.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/tommyhilfiger.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/burgerking.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/lg.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/shellpetrol.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/skoda.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/hyundai.jpg",
+            isCorrect: false,
+          },
+        ],
+      },
+      // mastercard.png
+      {
+        image1: "/Round_3/questions/mastercard1.png",
+        image2: "/Round_3/questions/mastercard2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/mastercard.png",
+            isCorrect: true,
+          }, //options
+          //           disney.jpg
+          // porsche.jpg
+          // ytstudio.webp
+          // dulogo.png
+          // mercedes.png
+          // pepsi.png
+          // stackoverflow.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/disney.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/porsche.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/ytstudio.webp",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/dulogo.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/mercedes.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/pepsi.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // linkedin.png
+      {
+        image1: "/Round_3/questions/linkedin1.png",
+        image2: "/Round_3/questions/linkedin2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/linkedin.png",
+            isCorrect: true,
+          }, //options
+          //           myntra.jpg
+          // skoda.png
+          // minecraft.jpg
+          // sharechat.jpg
+          // parker.png
+          // operamini.jpg
+          // playstation.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/myntra.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/skoda.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/minecraft.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/sharechat.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/parker.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/operamini.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/playstation.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // baskinrobbins.png
+      {
+        image1: "/Round_3/questions/baskinrobbins1.png",
+        image2: "/Round_3/questions/baskinrobbins2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/baskinrobbins.png",
+            isCorrect: true,
+          }, //options
+          //           cnbc.png
+          // animalplanet.jpg
+          // adobe.png
+          // audi.jpg
+          // indigoflights.png
+          // lg.png
+          // snapchat.jpg
+          {
+            id: 1,
+            optionImage: "/Round_3/options/cnbc.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/animalplanet.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/adobe.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/audi.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/indigoflights.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/lg.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/snapchat.jpg",
+            isCorrect: false,
+          },
+        ],
+      },
+      // redbull.png
+      {
+        image1: "/Round_3/questions/redbull1.png",
+        image2: "/Round_3/questions/redbull2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/redbull.png",
+            isCorrect: true,
+          }, //options
+          //           safari.png
+          // airtel.png
+          // kfc.png
+          // bhim.png
+          // adobe.png
+          // manyavar.png
+          // csharp.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/safari.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/airtel.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/kfc.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/bhim.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/adobe.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/manyavar.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/csharp.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // airbnb.png
+      {
+        image1: "/Round_3/questions/airbnb1.png",
+        image2: "/Round_3/questions/airbnb2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/airbnb.png",
+            isCorrect: true,
+          }, //options
+          //           dropbox.png
+          // hdfc.png
+          // adidas.png
+          // adobe.png
+          // firefox.png
+          // bharatpetroleum.jpg
+          // threads.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/dropbox.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/hdfc.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/adidas.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/adobe.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/firefox.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/bharatpetroleum.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/threads.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // kwalitywalls.png
+      {
+        image1: "/Round_3/questions/kwalitywalls1.png",
+        image2: "/Round_3/questions/kwalitywalls2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/kwalitywalls.png",
+            isCorrect: true,
+          },
+          //options
+          //           wpl.png
+          // dotnet.jpg
+          // reliance.png
+          // wendys.png
+          // xbox.png
+          // applemusic.png
+          // nba.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/wpl.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/dotnet.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/reliance.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/wendys.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/xbox.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/applemusic.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/nba.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // android.png
+      {
+        image1: "/Round_3/questions/android1.png",
+        image2: "/Round_3/questions/android2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/android.png",
+            isCorrect: true,
+          }, //options
+          //           xbox.png
+          // tanishq.jpeg
+          // pinterest.png
+          // tseries.png
+          // monster.jpg
+          // stackoverflow.png
+          // youtube.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/xbox.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/tanishq.jpeg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/pinterest.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/tseries.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/monster.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/stackoverflow.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/youtube.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      // visualstudiocode.jpg
+      {
+        image1: "/Round_3/questions/visualstudiocode1.png",
+        image2: "/Round_3/questions/visualstudiocode2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/visualstudiocode.jpg",
+            isCorrect: true,
+          }, //options
+          //           firebase.png
+          // monster.jpg
+          // adobe.png
+          // baskinrobbins.png
+          // mastercard.png
+          // airtel.png
+          // bluetooth.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/firebase.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/monster.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/adobe.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/baskinrobbins.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/mastercard.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/airtel.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/bluetooth.png",
+            isCorrect: false,
+          },
+        ],
+      },
+    ],
+  },
 ];
 
 export default Round_3_Data;
