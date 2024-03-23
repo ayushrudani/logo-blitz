@@ -1,7 +1,7 @@
 const Round_3_Data = [
   {
     team: "team1",
-    code: "#12345",
+    code: "5xy#zab",
     quizData: [
       {
         image1: "/Round_3/questions/dropbox1.png",
@@ -473,7 +473,7 @@ const Round_3_Data = [
   // harsh nd rutul
   {
     team: "team2",
-    code: "#2",
+    code: "6#cde7f",
     quizData: [
       {
         image1: "/Round_3/questions/stackoverflow1.png",
@@ -939,7 +939,7 @@ const Round_3_Data = [
   },
   {
     team: "team3",
-    code: "#3",
+    code: "g8hi#jk",
     quizData: [
       {
         image1: "/Round_3/questions/hindustanunilever1.jpg",
@@ -1410,7 +1410,7 @@ const Round_3_Data = [
   },
   {
     team: "team4",
-    code: "#4",
+    code: "lmn#opq",
     quizData: [
       {
         image1: "/Round_3/questions/burgerking1.png",
@@ -1917,7 +1917,7 @@ const Round_3_Data = [
   // modify pendding copilot
   {
     team: "team5",
-    code: "#5",
+    code: "rstu#vw",
     quizData: [
       {
         image1: "/Round_3/questions/tseries1.jpg",
@@ -2463,7 +2463,7 @@ const Round_3_Data = [
   },
   {
     team: "team6",
-    code: "#6",
+    code: "1vwx#yz",
     quizData: [
       {
         image1: "/Round_3/questions/twitter1.png",
@@ -3017,7 +3017,7 @@ const Round_3_Data = [
   },
   {
     team: "team7",
-    code: "#7",
+    code: "a#bcd12",
     quizData: [
       // paperboat.png
       {
@@ -3565,7 +3565,7 @@ const Round_3_Data = [
   },
   {
     team: "team8",
-    code: "#8",
+    code: "1#efgh3",
     quizData: [
       // minecraft.png
       {
@@ -3623,7 +3623,7 @@ const Round_3_Data = [
       },
       // tseries.png
       {
-        image1: "/Round_3/questions/tseries1.png",
+        image1: "/Round_3/questions/tseries1.jpg",
         image2: "/Round_3/questions/tseries2.png",
         options: [
           {
@@ -4055,7 +4055,7 @@ const Round_3_Data = [
       },
       // hindustanunilever.png
       {
-        image1: "/Round_3/questions/hindustanunilever1.png",
+        image1: "/Round_3/questions/hindustanunilever1.jpg",
         image2: "/Round_3/questions/hindustanunilever2.png",
         options: [
           {
@@ -4111,7 +4111,7 @@ const Round_3_Data = [
   },
   {
     team: "team9",
-    code: "#9",
+    code: "45#ij6k",
     quizData: [
       {
         image1: "/Round_3/questions/stackoverflow1.png",
@@ -4582,7 +4582,7 @@ const Round_3_Data = [
   },
   {
     team: "team10",
-    code: "#10",
+    code: "7lmn#op",
     quizData: [
       // paperboat.png
       {
