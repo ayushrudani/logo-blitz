@@ -1987,29 +1987,37 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/vsc.jpg",
             isCorrect: true,
           },
+          //options
+          //           tommyhilfiger.jpg
+          // wpl.png
+          // youtube.png
+          // dunzo.png
+          // cred.jpg
+          // hdfc.png
+          // steam.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/minecraft.jpg",
+            optionImage: "/Round_3/options/tommyhilfiger.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/fbi.jpg",
+            optionImage: "/Round_3/options/wpl.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/asianpaints.png",
+            optionImage: "/Round_3/options/youtube.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/indigopaints.png",
+            optionImage: "/Round_3/options/dunzo.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/googlemeet.jpg",
+            optionImage: "/Round_3/options/cred.jpg",
             isCorrect: false,
           },
           {
@@ -2019,7 +2027,7 @@ const Round_3_Data = [
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/dulogo.png",
+            optionImage: "/Round_3/options/steam.jpg",
             isCorrect: false,
           },
         ],
@@ -2033,39 +2041,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/pepsi.png",
             isCorrect: true,
           },
+          //options
+          //           safari.png
+          // instagram.png
+          // applemusic.png
+          // hindustanunilever.png
+          // astonmartin.jpg
+          // audi.jpg
+          // tseries.png
           {
             id: 1,
-            optionImage: "/Round_3/options/burgerking.png",
+            optionImage: "/Round_3/options/safari.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/applemusic.png",
+            optionImage: "/Round_3/options/instagram.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/cred.jpg",
+            optionImage: "/Round_3/options/applemusic.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/cnbc.png",
+            optionImage: "/Round_3/options/hindustanunilever.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/audi.jpg",
+            optionImage: "/Round_3/options/astonmartin.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/adidas.png",
+            optionImage: "/Round_3/options/audi.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/indigoflights.png",
+            optionImage: "/Round_3/options/tseries.png",
             isCorrect: false,
           },
         ],
@@ -2079,39 +2095,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/xender.png",
             isCorrect: true,
           },
+          //options
+          //           mercedes.png
+          // disney.jpg
+          // adobe.png
+          // bookmyshow.png
+          // nike.png
+          // quora.webp
+          // gmail.png
           {
             id: 1,
-            optionImage: "/Round_3/options/dotnet.jpg",
+            optionImage: "/Round_3/options/mercedes.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/louisvuitton.jpg",
+            optionImage: "/Round_3/options/disney.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/google.png",
+            optionImage: "/Round_3/options/adobe.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/xbox.png",
+            optionImage: "/Round_3/options/bookmyshow.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/baskinrobbins.png",
+            optionImage: "/Round_3/options/nike.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/quora.webp",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/tommyhilfiger.jpg",
+            optionImage: "/Round_3/options/gmail.png",
             isCorrect: false,
           },
         ],
@@ -2125,39 +2149,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/firefox.png",
             isCorrect: true,
           },
+          //options
+          //           gpay.png
+          // animalplanet.jpg
+          // jordan.jpg
+          // disney.jpg
+          // adidas.png
+          // louisvuitton.jpg
+          // indigopaints.png
           {
             id: 1,
-            optionImage: "/Round_3/options/windows.png",
+            optionImage: "/Round_3/options/gpay.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/wikipedia.png",
+            optionImage: "/Round_3/options/animalplanet.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/reliance.png",
+            optionImage: "/Round_3/options/jordan.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/physicswallah.jpg",
+            optionImage: "/Round_3/options/disney.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/powershell.png",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/applemusic.png",
+            optionImage: "/Round_3/options/louisvuitton.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/adidas.png",
+            optionImage: "/Round_3/options/indigopaints.png",
             isCorrect: false,
           },
         ],
@@ -2171,39 +2203,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/dominos.png",
             isCorrect: true,
           },
+          //options
+          //           indigoflights.png
+          // pinterest.png
+          // quickheal.png
+          // porsche.jpg
+          // messenger.jpg
+          // xender.png
+          // nationalgeographic.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/discord.png",
+            optionImage: "/Round_3/options/indigoflights.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/firebase.png",
+            optionImage: "/Round_3/options/pinterest.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/nationalgeographic.jpg",
+            optionImage: "/Round_3/options/quickheal.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/gucci.jpg",
+            optionImage: "/Round_3/options/porsche.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/parker.png",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/codesandbox.jpg",
+            optionImage: "/Round_3/options/xender.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/dunzo.png",
+            optionImage: "/Round_3/options/nationalgeographic.jpg",
             isCorrect: false,
           },
         ],
@@ -2217,19 +2257,27 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/physicswallah.jpg",
             isCorrect: true,
           },
+          //options
+          //           messenger.jpg
+          // lg.png
+          // animalplanet.jpg
+          // inshorts.jpeg
+          // dunzo.png
+          // google.png
+          // csharp.png
           {
             id: 1,
-            optionImage: "/Round_3/options/applemusic.png",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/codesandbox.jpg",
+            optionImage: "/Round_3/options/lg.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/firebase.png",
+            optionImage: "/Round_3/options/animalplanet.jpg",
             isCorrect: false,
           },
           {
@@ -2239,17 +2287,17 @@ const Round_3_Data = [
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/audi.jpg",
+            optionImage: "/Round_3/options/dunzo.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/adidas.png",
+            optionImage: "/Round_3/options/google.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/cnbc.png",
+            optionImage: "/Round_3/options/csharp.png",
             isCorrect: false,
           },
         ],
@@ -2263,14 +2311,22 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/applemusic.png",
             isCorrect: true,
           },
+          //options
+          //           tesla.jpg
+          // bharatpetroleum.jpg
+          // adidas.png
+          // cred.jpg
+          // fbi.jpg
+          // mastercard.png
+          // googlemeet.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/codeandbox.jpg",
+            optionImage: "/Round_3/options/tesla.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/kwalitywalls.png",
+            optionImage: "/Round_3/options/bharatpetroleum.jpg",
             isCorrect: false,
           },
           {
@@ -2280,22 +2336,22 @@ const Round_3_Data = [
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/porsche.jpg",
+            optionImage: "/Round_3/options/cred.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/inshorts.jpeg",
+            optionImage: "/Round_3/options/fbi.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/mastercard.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/dominos.png",
+            optionImage: "/Round_3/options/googlemeet.jpg",
             isCorrect: false,
           },
         ],
@@ -2309,39 +2365,101 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/bluetooth.png",
             isCorrect: true,
           },
+          //options
+          //           motorola.png
+          // mercedes.png
+          // gpay.png
+          // asianpaints.png
+          // gucci.jpg
+          // minecraft.jpg
+          // nba.png
           {
             id: 1,
-            optionImage: "/Round_3/options/wbusiness.jpg",
+            optionImage: "/Round_3/options/motorola.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/playstation.png",
+            optionImage: "/Round_3/options/mercedes.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/cred.jpg",
+            optionImage: "/Round_3/options/gpay.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/linkedin.png",
+            optionImage: "/Round_3/options/asianpaints.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/gucci.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/cartoonnetwork.png",
+            optionImage: "/Round_3/options/minecraft.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/nba.png",
+            isCorrect: false,
+          },
+        ],
+      },
+      {
+        image1: "/Round_3/questions/twitter1.jpg",
+        image2: "/Round_3/questions/twitter2.png",
+        options: [
+          {
+            id: 0,
+            optionImage: "/Round_3/options/twitter.jpg",
+            isCorrect: true,
+          },
+          //options
+          //           dropbox.png
+          // spotify.png
+          // safari.png
+          // adidas.png
+          // steam.jpg
+          // quickheal.png
+          // pizzahut.png
+          {
+            id: 1,
+            optionImage: "/Round_3/options/dropbox.png",
+            isCorrect: false,
+          },
+          {
+            id: 2,
+            optionImage: "/Round_3/options/spotify.png",
+            isCorrect: false,
+          },
+          {
+            id: 3,
+            optionImage: "/Round_3/options/safari.png",
+            isCorrect: false,
+          },
+          {
+            id: 4,
+            optionImage: "/Round_3/options/adidas.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/steam.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/quickheal.png",
+            isCorrect: false,
+          },
+          {
+            id: 7,
+            optionImage: "/Round_3/options/pizzahut.png",
             isCorrect: false,
           },
         ],
@@ -2349,8 +2467,8 @@ const Round_3_Data = [
     ],
   },
   {
-    team: "team3",
-    code: "#5a321",
+    team: "team6",
+    code: "#6",
     quizData: [
       {
         image1: "/Round_3/questions/twitter1.jpg",
@@ -2361,39 +2479,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/twitter.jpg",
             isCorrect: true,
           },
+          //options
+          //           dropbox.png
+          // spotify.png
+          // safari.png
+          // adidas.png
+          // steam.jpg
+          // quickheal.png
+          // pizzahut.png
           {
             id: 1,
-            optionImage: "/Round_3/options/wbusiness.jpg",
+            optionImage: "/Round_3/options/dropbox.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/playstation.png",
+            optionImage: "/Round_3/options/spotify.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/cred.jpg",
+            optionImage: "/Round_3/options/safari.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/linkedin.png",
+            optionImage: "/Round_3/options/adidas.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/cartoonnetwork.png",
+            optionImage: "/Round_3/options/steam.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/quickheal.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/pizzahut.png",
             isCorrect: false,
           },
         ],
@@ -2407,40 +2533,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/xbox.png",
             isCorrect: true,
           },
-
+          //options
+          //           paperboat.jpg
+          // applemusic.png
+          // airbnb.png
+          // skoda.png
+          // inshorts.jpeg
+          // vsc.jpg
+          // tommyhilfiger.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/dunzo.png",
+            optionImage: "/Round_3/options/paperboat.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/monster.jpg",
+            optionImage: "/Round_3/options/applemusic.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/indigoflights.png",
+            optionImage: "/Round_3/options/airbnb.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/motorola.png",
+            optionImage: "/Round_3/options/skoda.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/bookmyshow.png",
+            optionImage: "/Round_3/options/inshorts.jpeg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/tanishq.jpeg",
+            optionImage: "/Round_3/options/vsc.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/nasa.jpg",
+            optionImage: "/Round_3/options/tommyhilfiger.jpg",
             isCorrect: false,
           },
         ],
@@ -2454,40 +2587,48 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/youtube.png",
             isCorrect: true,
           },
+          //options
+          //           codesandbox.jpg
+          // wpl.png
+          // paperboat.jpg
+          // snapchat.jpg
+          // vsc.jpg
+          // warnerbros.png
+          // pepsi.png
 
           {
             id: 1,
-            optionImage: "/Round_3/options/dropbox.png",
+            optionImage: "/Round_3/options/codesandbox.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/skoda.png",
+            optionImage: "/Round_3/options/wpl.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/lg.png",
+            optionImage: "/Round_3/options/paperboat.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/asianpaints.png",
+            optionImage: "/Round_3/options/snapchat.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/playstore.png",
+            optionImage: "/Round_3/options/vsc.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/tesla.jpg",
+            optionImage: "/Round_3/options/warnerbros.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/tanishq.jpeg",
+            optionImage: "/Round_3/options/pepsi.png",
             isCorrect: false,
           },
         ],
@@ -2502,40 +2643,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/mastercard.png",
             isCorrect: true,
           },
-
+          //options
+          //           porsche.jpg
+          // reliance.png
+          // snapchat.jpg
+          // vsc.jpg
+          // applemusic.png
+          // tseries.png
+          // instagram.png
           {
             id: 1,
-            optionImage: "/Round_3/options/volkswagen.svg",
+            optionImage: "/Round_3/options/porsche.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/parker.png",
+            optionImage: "/Round_3/options/reliance.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/gucci.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/googlemeet.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 5,
-            optionImage: "/Round_3/options/xbox.png",
-            isCorrect: false,
-          },
-          {
-            id: 6,
             optionImage: "/Round_3/options/snapchat.jpg",
             isCorrect: false,
           },
           {
+            id: 4,
+            optionImage: "/Round_3/options/vsc.jpg",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/applemusic.png",
+            isCorrect: false,
+          },
+          {
+            id: 6,
+            optionImage: "/Round_3/options/tseries.png",
+            isCorrect: false,
+          },
+          {
             id: 7,
-            optionImage: "/Round_3/options/sharechat.jpg",
+            optionImage: "/Round_3/options/instagram.png",
             isCorrect: false,
           },
         ],
@@ -2550,40 +2698,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/visualstudiocode.jpg",
             isCorrect: true,
           },
-
+          //options
+          // bluetooth.png
+          // tacobell.jpg
+          // messenger.jpg
+          // instagram.png
+          // asianpaints.png
+          // wbusiness.jpg
+          // github.png
           {
             id: 1,
-            optionImage: "/Round_3/options/pinterest.png",
+            optionImage: "/Round_3/options/bluetooth.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/paperboat.jpg",
+            optionImage: "/Round_3/options/tacobell.jpg",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/quora.webp",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/gucci.jpg",
+            optionImage: "/Round_3/options/instagram.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/android.png",
+            optionImage: "/Round_3/options/asianpaints.png",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/nasa.jpg",
+            optionImage: "/Round_3/options/wbusiness.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/asianpaints.png",
+            optionImage: "/Round_3/options/github.png",
             isCorrect: false,
           },
         ],
@@ -2598,40 +2753,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/android.png",
             isCorrect: true,
           },
-
+          //options
+          //           sharechat.jpg
+          // kwalitywalls.png
+          // mahindra.jpg
+          // quickheal.png
+          // hyundai.jpg
+          // shellpetrol.png
+          // mcdonalds.png
           {
             id: 1,
-            optionImage: "/Round_3/options/baskinrobbins.png",
+            optionImage: "/Round_3/options/sharechat.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/rcb.jpg",
+            optionImage: "/Round_3/options/kwalitywalls.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/dulogo.png",
+            optionImage: "/Round_3/options/mahindra.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/byjus.png",
+            optionImage: "/Round_3/options/quickheal.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/volkswagen.svg",
+            optionImage: "/Round_3/options/hyundai.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/myntra.jpg",
+            optionImage: "/Round_3/options/shellpetrol.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/hyundai.jpg",
+            optionImage: "/Round_3/options/mcdonalds.png",
             isCorrect: false,
           },
         ],
@@ -2646,40 +2808,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/airbnb.png",
             isCorrect: true,
           },
-
+          //options
+          //           nike.png
+          // quickheal.png
+          // inshorts.jpeg
+          // cnbc.png
+          // steam.jpg
+          // bookmyshow.png
+          // motorola.png
           {
             id: 1,
-            optionImage: "/Round_3/options/steam.jpg",
+            optionImage: "/Round_3/options/nike.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/starbucks.png",
+            optionImage: "/Round_3/options/quickheal.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/youtube.png",
+            optionImage: "/Round_3/options/inshorts.jpeg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/adobe.png",
+            optionImage: "/Round_3/options/cnbc.png",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/pinterest.png",
+            optionImage: "/Round_3/options/steam.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/indigoflights.png",
+            optionImage: "/Round_3/options/bookmyshow.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/messenger.jpg",
+            optionImage: "/Round_3/options/motorola.png",
             isCorrect: false,
           },
         ],
@@ -2694,40 +2863,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/minecraft.jpg",
             isCorrect: true,
           },
-
+          //options
+          //           cred.jpg
+          // rockstar.png
+          // mcdonalds.png
+          // warnerbros.png
+          // mastercard.png
+          // messenger.jpg
+          // louisvuitton.jpg
           {
             id: 1,
-            optionImage: "/Round_3/options/skoda.png",
+            optionImage: "/Round_3/options/cred.jpg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/codesandbox.jpg",
+            optionImage: "/Round_3/options/rockstar.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/tacobell.jpg",
-            isCorrect: false,
-          },
-          {
-            id: 4,
-            optionImage: "/Round_3/options/airtel.png",
-            isCorrect: false,
-          },
-          {
-            id: 5,
             optionImage: "/Round_3/options/mcdonalds.png",
             isCorrect: false,
           },
           {
+            id: 4,
+            optionImage: "/Round_3/options/warnerbros.png",
+            isCorrect: false,
+          },
+          {
+            id: 5,
+            optionImage: "/Round_3/options/mastercard.png",
+            isCorrect: false,
+          },
+          {
             id: 6,
-            optionImage: "/Round_3/options/windows.png",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/parker.png",
+            optionImage: "/Round_3/options/louisvuitton.jpg",
             isCorrect: false,
           },
         ],
@@ -2742,40 +2918,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/firebase.jpg",
             isCorrect: true,
           },
-
+          //options
+          //           mcdonalds.png
+          // playstore.png
+          // monster.jpg
+          // operamini.jpg
+          // twitter.jpg
+          // shellpetrol.png
+          // skoda.png
           {
             id: 1,
-            optionImage: "/Round_3/options/airtel.png",
+            optionImage: "/Round_3/options/mcdonalds.png",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/bluetooth.png",
+            optionImage: "/Round_3/options/playstore.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/skoda.png",
+            optionImage: "/Round_3/options/monster.jpg",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/rcb.jpg",
+            optionImage: "/Round_3/options/operamini.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/baskinrobbins.png",
+            optionImage: "/Round_3/options/twitter.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/nba.png",
+            optionImage: "/Round_3/options/shellpetrol.png",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/firebase.png",
+            optionImage: "/Round_3/options/skoda.png",
             isCorrect: false,
           },
         ],
@@ -2790,40 +2973,47 @@ const Round_3_Data = [
             optionImage: "/Round_3/options/codesandbox.png",
             isCorrect: true,
           },
-
+          //options
+          //           inshorts.jpeg
+          // airtel.png
+          // nba.png
+          // messenger.jpg
+          // steam.jpg
+          // bharatpetroleum.jpg
+          // airbnb.png
           {
             id: 1,
-            optionImage: "/Round_3/options/shellpetrol.png",
+            optionImage: "/Round_3/options/inshorts.jpeg",
             isCorrect: false,
           },
           {
             id: 2,
-            optionImage: "/Round_3/options/windows.png",
+            optionImage: "/Round_3/options/airtel.png",
             isCorrect: false,
           },
           {
             id: 3,
-            optionImage: "/Round_3/options/dominos.png",
+            optionImage: "/Round_3/options/nba.png",
             isCorrect: false,
           },
           {
             id: 4,
-            optionImage: "/Round_3/options/gfg.png",
+            optionImage: "/Round_3/options/messenger.jpg",
             isCorrect: false,
           },
           {
             id: 5,
-            optionImage: "/Round_3/options/skype.png",
+            optionImage: "/Round_3/options/steam.jpg",
             isCorrect: false,
           },
           {
             id: 6,
-            optionImage: "/Round_3/options/fbi.jpg",
+            optionImage: "/Round_3/options/bharatpetroleum.jpg",
             isCorrect: false,
           },
           {
             id: 7,
-            optionImage: "/Round_3/options/redbull.png",
+            optionImage: "/Round_3/options/airbnb.png",
             isCorrect: false,
           },
         ],
